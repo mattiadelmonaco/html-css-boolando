@@ -154,6 +154,7 @@ del {
 
 .card:hover .second-img {
     display: block;
+    cursor: pointer;
 }
 
 /*-------------
