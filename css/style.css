@@ -18,6 +18,10 @@
     margin-right: auto;
 }
 
+body {
+    font-family: 'GT America Trial', sans-serif;
+}
+
 /*----------------
     TYPOGRAPHY
 -----------------*/
@@ -117,6 +121,16 @@ header {
     position: absolute;
     bottom: 100px;
     left: 0;
+}
+
+.card p:last-child {
+    color: #ff0000;
+    font-weight: bolder;
+}
+
+del {
+    color: black;
+    font-weight: normal;
 }
 
 /*-------------
