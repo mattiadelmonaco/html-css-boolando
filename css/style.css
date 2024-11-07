@@ -26,6 +26,10 @@ body {
     TYPOGRAPHY
 -----------------*/
 
+h4 {
+    font-weight: bolder;
+}
+
 /*-------------
     HEADER
 --------------*/
@@ -131,6 +135,20 @@ header {
 del {
     color: black;
     font-weight: normal;
+}
+
+.second-img {
+    position: absolute;
+    bottom: 65px;
+    right: 0;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 20px;
+    display: none;
+}
+
+.card:hover .second-img {
+    display: block;
 }
 
 /*-------------
