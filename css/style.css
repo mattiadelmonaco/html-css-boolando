@@ -32,6 +32,7 @@ h4 {
 
 h5 {
     font-size: small;
+    margin-bottom: 5px;
 }
 
 /*-------------
@@ -187,4 +188,9 @@ footer {
 
 .social {
     text-align: center;
+}
+
+.social a {
+    font-size: 20px;
+    padding: 0 2px;
 }
