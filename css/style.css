@@ -157,7 +157,7 @@ del {
     cursor: pointer;
 }
 
-.card:hover .like {
+.like:hover {
     color: #ff0000;
     cursor: pointer;
 }
